@@ -25,3 +25,4 @@ BACKLIGHT_ENABLE = no  # Enable keyboard backlight functionality
 AUDIO_ENABLE = no
 RGBLIGHT_ENABLE = no
 
+TAP_DANCE_ENABLE = no
