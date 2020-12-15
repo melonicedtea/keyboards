@@ -42,7 +42,7 @@
  * Timeout after which the backlight of the keyboard is disabled if no keypresses are received.
  * If this feature is not needed you can set the timeout to UINT32_MAX, this is more than 100 years.
  */
-#define BACKLIGHT_TIMEOUT 60
+#define BACKLIGHT_TIMEOUT 1800
 
 /*
  * Force NKRO

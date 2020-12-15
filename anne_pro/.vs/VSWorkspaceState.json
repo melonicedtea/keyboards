@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\boards",
+    "\\boards\\STM32L151_ANNE_PRO",
+    "\\keymaps",
+    "\\keymaps\\melonicedtea",
+    "\\ld"
+  ],
+  "SelectedNode": "\\keymaps\\melonicedtea\\keymap.c",
+  "PreviewInSolutionExplorer": false
+}
